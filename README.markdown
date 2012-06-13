@@ -14,6 +14,7 @@
 
 ###Note: 
  *  This is not (yet) an Android Library project. I plan to make it one though in the future and add a few more features. Until then you can get by by modifying the source file. 
+ *  A similar library can be found at https://github.com/vaal12/AndroidFileBrowser, which provides a separate Activity (not Dialog) to browse and select files and directories on the phone. That library is based on the code from Android File Explore.
 
 ###Licence: 
 
